@@ -2,7 +2,7 @@
 
 <h1 align="center">🎃 Why Is It So Quiet? 🕯️</h1>
 <br>
-<p align="center"> <strong>"Why Is It So Quiet?"</strong> est un modpack <strong>Minecraft français en 1.20.1 [Forge]</strong> axé sur <strong>l'horreur et l'ambiance horrifique</strong>. Ce projet regroupe plus de <strong>174 mods</strong>, des <strong>shaders</strong> et des <strong>resource packs</strong> soigneusement sélectionnés pour vous offrir une expérience immersive et effrayante. 🌑 </p> <p align="center"> Je suis l'unique créateur de ce modpack, et je m'engage à fournir des <strong>mises à jour régulières</strong> pour enrichir encore davantage l'expérience. Préparez-vous à explorer une <strong>atmosphère oppressante</strong> où chaque recoin cache ses mystères. <br> ⚠️ <strong>Affrontez vos peurs... si vous osez.</strong> </p>
+<p align="center"> <strong>"Why Is It So Quiet?"</strong> est un modpack <strong>Minecraft français en 1.20.1 [Forge]</strong> axé sur <strong>l'horreur et l'ambiance horrifique</strong>. Ce projet regroupe plus de <strong>174 mods</strong>, des <strong>shaders</strong> et des <strong>resource packs</strong> soigneusement sélectionnés pour vous offrir une expérience immersive et effrayante. 🌑 </p> <p align="center"> Je suis l'unique créateur de ce modpack, et je m'engage à fournir des <strong>mises à jour régulières</strong> pour enrichir encore davantage l'expérience. Préparez-vous à explorer une <strong>atmosphère oppressante</strong> où chaque recoin cache ses mystères. <br><br> ⚠️ <strong>Affrontez vos peurs... si vous osez.</strong> </p>
 <br>
 
 <br>
